@@ -1,4 +1,6 @@
-![CoderCo](./images/coderco.jpg)
+<div align="center">
+    <img src="./images/coderco.jpg" alt="CoderCo" width="300"/>
+</div>
 
 # CoderCo Assignment 1 - Open Source App Hosted on ECS with Terraform 🚀
 
