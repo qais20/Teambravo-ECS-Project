@@ -25,7 +25,10 @@ This project is based on Amazon's Threat Composer Tool, an open source tool desi
 ```bash
 yarn install
 yarn build
-yarn start
+yarn global add serve
+serve -s build
+
+#yarn start
 http://localhost:3000/workspaces/default/dashboard
 
 ## or
